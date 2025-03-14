@@ -38,7 +38,7 @@ Ready to capture explosive gains? Contact us on our TG for details on how to joi
   ![PNL Example 3](https://pumpfunbot.xyz/images/pnl5.jpg)
 
 - **Video Demo:**  
-  For a live demonstration, visit our website and watch our demo video:  
+  For a demonstration, visit our website and watch our demo video:  
   [https://pumpfunbot.xyz](https://pumpfunbot.xyz)
 
 ## Contact

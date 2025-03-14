@@ -13,7 +13,6 @@ PumpFunBot is an advanced Telegram bot designed for crypto traders and meme coin
 - **Comprehensive Token Insights:** Access key metrics such as token age, market cap, holder distribution, reply counts, and top holder percentages.
 - **Quick Integration:** Get rapid access to leading trading platforms like BullX, Trojan, Bonk, and Axiom with one-click links.
 - **Exclusive Community Access:** Enjoy entry into our private group where traders discuss the latest plays, share strategies, and provide market insights.
-- **User-Friendly Experience:** Minimal setup required—simply join our Telegram channel and start receiving alerts.
 
 ## How It Works
 

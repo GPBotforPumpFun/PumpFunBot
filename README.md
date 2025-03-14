@@ -4,7 +4,7 @@ Imagine a state-of-the-art Telegram bot that scours Pump.fun, meticulously filte
 
 ## Overview
 
-PumpFunBot is an advanced Telegram crypto bot designed for traders and meme coin enthusiasts. By continuously scanning Pump.fun for promising token signals, our bot delivers real-time alerts and in-depth analytics directly to your Telegram. Whether you're chasing explosive meme coin plays or seeking hidden gems, PumpFunBot empowers you with actionable insights to make informed trading decisions.
+PumpFunBot is an advanced Telegram crypto bot designed for traders and meme coin enthusiasts. By continuously scanning Pump.fun for promising token signals, our bot delivers real-time alerts and in-depth analytics directly to our exclusive and private GP-BOT Telegram group. Whether you're chasing explosive meme coin plays or seeking hidden gems, PumpFunBot empowers you with actionable insights to make informed trading decisions.
 
 ## Key Features
 
@@ -22,12 +22,12 @@ PumpFunBot is an advanced Telegram crypto bot designed for traders and meme coin
 3. **Comprehensive Data:** Each alert includes critical metrics to help you evaluate the token's potential.
 4. **Community Engagement:** Collaborate and discuss with fellow traders in our exclusive private GP-BOT group.
 
-## Get Started
+## How to Join
 
 Visit our website for a full demo and more details:  
 **[https://pumpfunbot.xyz](https://pumpfunbot.xyz)**
 
-Ready to capture explosive gains? Join our Telegram channel for instant alerts:  
+Ready to capture explosive gains? Contact us on our TG for details on how to join and access:  
 **[https://t.me/BRi9621](https://t.me/BRi9621)**
 
 ## Screenshots & Demos

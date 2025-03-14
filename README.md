@@ -4,46 +4,57 @@ Imagine a state-of-the-art Telegram bot that scours Pump.fun, meticulously filte
 
 ## Overview
 
-PumpFunBot is an advanced Telegram bot designed for crypto traders and meme coin enthusiasts who are looking for that extra edge. Our bot combines cutting-edge analytics with real-time alerts to help you spot lucrative opportunities on Pump.fun. Whether you're chasing meme coins or seeking high-potential tokens, PumpFunBot delivers actionable insights that empower you to make informed decisions and capitalize on market moves.
+PumpFunBot is an advanced Telegram crypto bot designed for traders and meme coin enthusiasts. By continuously scanning Pump.fun for promising token signals, our bot delivers real-time alerts and in-depth analytics directly to your Telegram. Whether you're chasing explosive meme coin plays or seeking hidden gems, PumpFunBot empowers you with actionable insights to make informed trading decisions.
 
 ## Key Features
 
-- **Real-Time Alerts:** Receive immediate notifications on your Telegram as soon as PumpFunBot detects promising token signals.
-- **In-Depth Analytics:** Our proprietary algorithms filter through market noise to identify tokens with explosive potential.
-- **Comprehensive Token Insights:** Access key metrics such as token age, market cap, holder distribution, reply counts, and top holder percentages.
-- **Quick Integration:** Get rapid access to leading trading platforms like BullX, Trojan, Bonk, and Axiom with one-click links.
-- **Exclusive Community Access:** Enjoy entry into our private group where traders discuss the latest plays, share strategies, and provide market insights.
+- **Real-Time Alerts:** Get immediate notifications as soon as high-potential tokens are detected.
+- **Advanced Analytics:** Our cutting-edge algorithms analyze key metrics such as token age, market cap, holder distribution, and social buzz.
+- **Detailed Token Insights:** Understand the numbers behind every token—from reply counts to top holder percentages.
+- **Quick Integration:** Direct links to popular trading platforms ensure you can act quickly.
+- **Exclusive Community Access:** Join our private group to discuss strategies, share plays, and stay ahead of the market.
+- **User-Friendly Experience:** No setup or coding necessary.
 
 ## How It Works
 
-1. **Token Scanning:** PumpFunBot continuously monitors Pump.fun, analyzing new token launches using sophisticated criteria.
-2. **Signal Generation:** When a token meets our strict criteria, the bot generates a clear, actionable signal and delivers it directly to your Telegram.
-3. **Detailed Insights:** For every token signal, receive detailed data on market cap, token age, holder distribution, social buzz, and more.
-4. **Community Collaboration:** Leverage insights from our exclusive private group where fellow traders discuss strategies and market trends.
-5. **Quick Execution:** With integrated links to popular trading platforms, you can seamlessly move from signal to trade.
+1. **Continuous Monitoring:** PumpFunBot scans Pump.fun around the clock for new token opportunities.
+2. **Signal Generation:** When a token meets our stringent criteria, an actionable alert is sent straight to your Telegram.
+3. **Comprehensive Data:** Each alert includes critical metrics to help you evaluate the token's potential.
+4. **Community Engagement:** Collaborate and discuss with fellow traders in our exclusive private group.
 
 ## Get Started
 
-Ready to print money and capture those explosive gains? It's simple:
-- **Join PumpFunBot on Telegram:** [https://t.me/BRi9621](https://t.me/BRi9621)
+Visit our website for a full demo and more details:  
+**[https://pumpfunbot.xyz](https://pumpfunbot.xyz)**
+
+Ready to capture explosive gains? Join our Telegram channel for instant alerts:  
+**[https://t.me/BRi9621](https://t.me/BRi9621)**
 
 ## Screenshots & Demos
 
-*Coming Soon: Add screenshots or video demos here to showcase PumpFunBot in action.*
+- **Logo:**  
+  ![PumpFunBot Logo](https://pumpfunbot.xyz/images/gpbot.jpg)
+
+- **PNL Examples:**  
+  ![PNL Example 1](https://pumpfunbot.xyz/images/pnl8.jpg)  
+  ![PNL Example 2](https://pumpfunbot.xyz/images/pnl10.jpg)  
+  ![PNL Example 3](https://pumpfunbot.xyz/images/pnl5.jpg)
+
+- **Video Demo:**  
+  For a live demonstration, visit our website and watch our demo video:  
+  [https://pumpfunbot.xyz](https://pumpfunbot.xyz)
 
 ## Installation & Setup
 
-PumpFunBot is designed for ease-of-use. No complex installation is required:
-1. Click the Telegram join link above.
-2. Follow the on-screen instructions to activate your alerts.
-3. Enjoy real-time crypto signals and actionable insights.
-
-If you're a developer interested in the technical details or want to contribute to the project, please check out our repository for more information.
+PumpFunBot is designed for simplicity:
+1. **No Installation Required:** Simply join our Telegram channel to start receiving real-time alerts.
+2. **For Developers:** If you'd like to explore the code or contribute, feel free to fork the repository and submit pull requests. For significant changes, please open an issue first to discuss your ideas.
 
 ## Contact
 
-For questions, support, or further information, please reach out via Telegram:
-[https://t.me/BRi9621](https://t.me/BRi9621)
+For questions, support, or more information, please reach out via Telegram:  
+**[https://t.me/BRi9621](https://t.me/BRi9621)**  
+Or visit our website: **[https://pumpfunbot.xyz](https://pumpfunbot.xyz)**
 
 ---
 

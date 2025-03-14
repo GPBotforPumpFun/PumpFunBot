@@ -4,7 +4,7 @@ Imagine a state-of-the-art Telegram bot that scours Pump.fun, meticulously filte
 
 ## Overview
 
-PumpFunBot is an advanced Telegram crypto bot designed for traders and meme coin enthusiasts. By continuously scanning Pump.fun for promising token signals, our bot delivers real-time alerts and in-depth analytics directly to our exclusive and private GP-BOT Telegram group. Whether you're chasing explosive meme coin plays or seeking hidden gems, PumpFunBot empowers you with actionable insights to make informed trading decisions.
+GP-BOT is an advanced Telegram crypto bot designed for traders and meme coin enthusiasts. By continuously scanning Pump.fun for promising token signals, our bot delivers real-time alerts and in-depth analytics directly to our exclusive and private GP-BOT Telegram group. Whether you're chasing explosive meme coin plays or seeking hidden gems, GP-BOT empowers you with actionable insights to make informed trading decisions.
 
 ## Key Features
 
@@ -17,7 +17,7 @@ PumpFunBot is an advanced Telegram crypto bot designed for traders and meme coin
 
 ## How It Works
 
-1. **Continuous Monitoring:** PumpFunBot scans Pump.fun around the clock for new token opportunities.
+1. **Continuous Monitoring:** GP-BOT scans Pump.fun around the clock for new token opportunities.
 2. **Signal Generation:** When a token meets our stringent criteria, an actionable alert is sent straight to our private GP-BOT Telegram.
 3. **Comprehensive Data:** Each alert includes critical metrics to help you evaluate the token's potential.
 4. **Community Engagement:** Collaborate and discuss with fellow traders in our exclusive private GP-BOT group.
@@ -49,4 +49,4 @@ Or visit our website: **[https://pumpfunbot.xyz](https://pumpfunbot.xyz)**
 
 ---
 
-PumpFunBot is your secret weapon in the volatile world of crypto and meme coins. Join us today and unlock your potential for explosive gains!
+GP-BOT is your secret weapon in the volatile world of crypto and meme coins. Join us today and unlock your potential for explosive gains!

@@ -41,17 +41,6 @@ PumpFunBot is designed for ease-of-use. No complex installation is required:
 
 If you're a developer interested in the technical details or want to contribute to the project, please check out our repository for more information.
 
-## Contributing
-
-We welcome contributions! If you have ideas or improvements:
-- Fork the repository.
-- Submit a pull request with your changes.
-- For major modifications, please open an issue first to discuss your ideas.
-
-## License
-
-*Add your license information here (e.g., MIT License) if applicable.*
-
 ## Contact
 
 For questions, support, or further information, please reach out via Telegram:

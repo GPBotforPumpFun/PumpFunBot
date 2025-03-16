@@ -30,15 +30,15 @@ Visit our website for a full demo and more details:
 Ready to capture explosive gains? Contact us on our TG for details on how to join and access:  
 **[https://t.me/BRi9621](https://t.me/BRi9621)**
 
-## Screenshots & Demos
+## Screenshots / Videos
 
 - **PNL Examples from GP-BOT Calls:**  
   ![PNL Example 1](https://pumpfunbot.xyz/images/pnl8.jpg)  
   ![PNL Example 2](https://pumpfunbot.xyz/images/pnl10.jpg)  
   ![PNL Example 3](https://pumpfunbot.xyz/images/pnl5.jpg)
 
-- **Video Demo:**  
-  For a demo, visit our website:
+- **Videos:**  
+  For a demo, visit our website to see the latest banger calls:
   [https://pumpfunbot.xyz](https://pumpfunbot.xyz)
 
 ## Contact

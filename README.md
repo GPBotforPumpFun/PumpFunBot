@@ -11,7 +11,7 @@ GP-BOT is an advanced Telegram crypto bot designed for traders and meme coin ent
 - **Real-Time Alerts:** Get immediate notifications as soon as high-potential tokens are detected.
 - **Advanced Analytics:** Our cutting-edge algorithms analyze key metrics such as token age, market cap, holder distribution, and social buzz.
 - **Detailed Token Insights:** Understand the numbers behind every token—from reply counts to top holder percentages.
-- **Quick Integration:** Direct links to popular trading platforms ensure you can act quickly.
+- **Quick Integration:** Direct links to popular trading platforms ensure you can act quickly. 
 - **Exclusive Community Access:** Join our private group to discuss strategies, share plays, and stay ahead of the market.
 - **User-Friendly Experience:** No setup or coding necessary. 
 

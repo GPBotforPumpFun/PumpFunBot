@@ -1,7 +1,7 @@
 ## GP-BOT for finding High-Potential Pump.fun tokens
 
 Imagine a state-of-the-art Telegram bot that scours Pump.fun, meticulously filtering through the noise to uncover hidden high-potential tokens – unlocking explosive gains of 5x, 10x, 50x, 100x, 1000x, or even more!
-
+ 
 ## Overview
 
 GP-BOT is an advanced Telegram crypto bot designed for traders and meme coin enthusiasts. By continuously scanning Pump.fun for promising token signals, our bot delivers real-time alerts and in-depth analytics directly to our exclusive and private GP-BOT Telegram group. Whether you're chasing explosive meme coin plays or seeking hidden gems, GP-BOT empowers you with actionable insights to make informed trading decisions.

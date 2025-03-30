@@ -6,7 +6,7 @@ Imagine a state-of-the-art Telegram bot that scours Pump.fun, meticulously filte
 
 GP-BOT is an advanced Telegram crypto bot designed for traders and meme coin enthusiasts. By continuously scanning Pump.fun for promising token signals, our bot delivers real-time alerts and in-depth analytics directly to our exclusive and private GP-BOT Telegram group. Whether you're chasing explosive meme coin plays or seeking hidden gems, GP-BOT empowers you with actionable insights to make informed trading decisions.
 
-## Key Features
+## Key Features 
 
 - **Real-Time Alerts:** Get immediate notifications as soon as high-potential tokens are detected.
 - **Advanced Analytics:** Our cutting-edge algorithms analyze key metrics such as token age, market cap, holder distribution, and social buzz.

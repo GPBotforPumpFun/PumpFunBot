@@ -28,7 +28,7 @@ Visit our website for a full demo and more details:
 **[https://pumpfunbot.xyz](https://pumpfunbot.xyz)**
 
 Ready to capture explosive gains? Contact us on our TG for details on how to join and access:  
-**[https://t.me/BRi9621](https://t.me/BRi100x)**
+**[https://t.me/BRi100x](https://t.me/BRi100x)**
 
 ## Screenshots / Videos
 
